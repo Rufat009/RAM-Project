@@ -1,0 +1,9 @@
+@{
+    ViewBag.Title = "Purchase Success";
+}
+<h2>Purchase Success</h2>
+<p>You bought: <strong>@ViewBag.Item</strong></p>
+<p>Amount Deducted: <strong>$@ViewBag.Amount</strong></p>
+<p>Balance After: <strong>$@ViewBag.Balance</strong></p>
+<p>Time Bought: <strong>@ViewBag.Time</strong></p>
+<a href="@Url.Action("Index", "Music")">Buy another song</a> 

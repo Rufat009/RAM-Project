@@ -1,0 +1,65 @@
+[
+  {
+    "Service": "Music",
+    "ItemName": "bts",
+    "AmountDeducted": 23,
+    "BalanceAfter": 277,
+    "TimeBought": "2025-06-26T14:03:28.3442846Z"
+  },
+  {
+    "Service": "Games",
+    "ItemName": "pubg",
+    "AmountDeducted": 232,
+    "BalanceAfter": 45,
+    "TimeBought": "2025-06-26T14:03:37.9312072Z"
+  },
+  {
+    "Service": "Housing",
+    "ItemName": "mirvari park",
+    "AmountDeducted": 23,
+    "BalanceAfter": 277,
+    "TimeBought": "2025-06-26T14:13:03.6996743Z"
+  },
+  {
+    "Service": "Housing",
+    "ItemName": "aasdasdd",
+    "AmountDeducted": 23,
+    "BalanceAfter": 254,
+    "TimeBought": "2025-06-26T14:13:11.3150929Z"
+  },
+  {
+    "Service": "Housing",
+    "ItemName": "23",
+    "AmountDeducted": 2,
+    "BalanceAfter": 252,
+    "TimeBought": "2025-06-26T14:13:17.5837699Z"
+  },
+  {
+    "Service": "Music",
+    "ItemName": "BTS",
+    "AmountDeducted": 22,
+    "BalanceAfter": 278,
+    "TimeBought": "2025-06-26T15:40:14.1487369Z"
+  },
+  {
+    "Service": "Music",
+    "ItemName": "Skillet",
+    "AmountDeducted": 43,
+    "BalanceAfter": 235,
+    "TimeBought": "2025-06-26T15:40:26.2907981Z"
+  },
+  {
+    "Service": "Games",
+    "ItemName": "Mortal Kombat",
+    "AmountDeducted": 45,
+    "BalanceAfter": 190,
+    "TimeBought": "2025-06-26T15:40:48.2466879Z"
+  },
+  {
+    "Service": "Music",
+    "ItemName": "Bob Marley",
+    "AmountDeducted": 78,
+    "BalanceAfter": 222,
+    "TimeBought": "2025-06-26T16:21:01.2773262Z"
+  }
+]
